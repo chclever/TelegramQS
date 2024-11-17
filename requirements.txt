@@ -1,0 +1,5 @@
+python-telegram-bot
+psutil
+tqdm
+requests
+pyinstaller
