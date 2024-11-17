@@ -15,11 +15,11 @@
 ## Установка
 Чтобы установить проект, выполните следующие шаги:
 
-1. Клонируйте репозиторий: ```bash git clone https://github.com/chclever/TelegramQS.git/
+1. Клонируйте репозиторий: ```bash git clone https://github.com/chclever/TelegramQS.git/```
 
-2. Запустите TelegramQS.py: ```cd TelegramQS
+2. Запустите TelegramQS.py: ```cd TelegramQS```
 
-3. Запустите файл. ```python TelegramQS.py
+3. Запустите файл. ```python TelegramQS.py```
 
 
 ## Фото
